@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LocationApp</string>
+    <string name="track_coarse_location">Track Coarse Location</string>
+    <string name="track_fine_location">Track Fine Location</string>
+</resources>
